@@ -12,7 +12,6 @@ ShibaHouse aggregrates all the offers from different liquidty pools.
 
 ## ShibaHouse, The first DEX aggregator on Shibarium. 0x4C127318bD4B2322fbD8ebC83b0D2d5bE6496491
 
-### A Python Application for using [Komodo Platform](https://komodoplatform.com/)'s [atomicDEX](www.shibahouse.xyz/) in the browser.
 
 ### Build upon pytomicDEX. Shout out to smk762.
 
