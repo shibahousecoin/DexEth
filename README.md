@@ -20,7 +20,7 @@ ShibaHouse aggregrates all the offers from different liquidty pools.
 
 ![DexEthShibaHouse Orderbook](https://i.imgur.com/sKPGlqJ.png)
 
-#### Requirements  
+#### Requirements
 Python 3.6+
 
 #### Dependencies
@@ -30,17 +30,15 @@ python3 -m pip install requests python-bitcoinlib flask beautifulsoup4
 
 ### Downloads
 ```
-git clone https://github.com/5aubermann/DexEthShibaHouse
-cd DexEthShibaHouse && wget https://raw.githubusercontent.com/jl777/coins/master/coins && wget https://github.com/KomodoPlatform/atomicDEX-API/releases/download/beta-2.0.1984/mm2-e1dac77d6-Linux-Release.zip && unzip mm2-e1dac77d6-Linux-Release.zip && rm mm2-e1dac77d6-Linux-Release.zip
-```
+git clone
 
-#### Recommended reading  
-https://developers.atomicdex.io/  
-https://developers.komodoplatform.com/  
-https://komodoplatform.com/atomic-swaps/  
+#### Recommended reading
+https://developers.atomicdex.io/
+https://developers.komodoplatform.com/
+https://komodoplatform.com/atomic-swaps/
 
 
-## Setup  
+## Setup
 
 ### MM2.json
 This file needs to be edited with your own wallet passphrase (seed) and any rpc_password.
